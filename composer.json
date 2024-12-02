@@ -1,0 +1,46 @@
+{
+  "name": "mylistryx/yii2-bootstrap-icons-asset",
+  "description": "Yii2 Bootstrap Icons font asset bundle",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "Sergey Zhukovskiy",
+      "email": "mylistryx@gmail.com",
+      "homepage": "https://net23.ru"
+    }
+  ],
+  "keywords": [
+    "yii2",
+    "bootstrap5",
+    "bootstrap5 icons",
+    "icons",
+    "asset",
+    "bundle",
+    "free",
+    "font"
+  ],
+  "version": "1.11.3",
+  "readme": "README.md",
+  "autoload": {
+    "psr-4": {
+      "yii\\BootstrapIcons\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],  
+  "require": {
+    "php": ">=8.2",
+    "yiisoft/yii2": "~2.0.50"
+  },
+  "config": {
+    "allow-plugins": {
+      "yiisoft/yii2-composer": true
+    }
+  }
+}
