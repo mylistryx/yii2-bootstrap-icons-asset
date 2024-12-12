@@ -1,4 +1,4 @@
-<h2 style="text-align: center">Bootstrap Icons font asset bundle for Yii 2.0 Framework</h2>
+<h2 style="text-align: center">@Deprecated Bootstrap Icons font asset bundle for Yii 2.0 Framework</h2>
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
@@ -7,6 +7,7 @@
 </p>
 
 ---
+## !DEPRECATED! ##
 
 ## Installation #
 
